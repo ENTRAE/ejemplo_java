@@ -7,7 +7,7 @@ package ajedrez;
 
 /**
  *
- * @author Docent
+ * @author Jose
  */
 public class Move {
     private boolean estaMoviendo = false;
